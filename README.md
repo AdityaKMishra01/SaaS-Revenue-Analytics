@@ -66,8 +66,6 @@ This project answers these questions through data analysis and visualization.
 SaaS-Revenue-Analytics
 │
 ├── README.md
-├── requirements.txt
-├── LICENSE
 │
 ├── data
 │   ├── raw
@@ -83,13 +81,12 @@ SaaS-Revenue-Analytics
 │   └── saas_analysis.sql
 │
 ├── dashboards
-│   ├── SaaS_Revenue_Analytics.pbix
-│   ├── Executive_Overview.png
-│   ├── Revenue_Movement.png
-│   └── Plan_Performance.png
-│
-└── images
-    └── workflow.png
+    ├── SaaS_Revenue_Analytics.pbix
+    ├── Executive_Overview.png
+    ├── Revenue_Movement.png
+    └── Plan_Performance.png
+    
+
 ```
 
 ---
@@ -222,7 +219,7 @@ SQL queries were written to answer business questions such as:
 
 ## Executive Overview
 
-![Executive Dashboard](dashboards/Executive_Overview.png)
+![Executive Dashboard](Dashboard/Executive_Overview_Dashboard.png)
 
 Highlights:
 
@@ -237,7 +234,7 @@ Highlights:
 
 ## Revenue Movement Analysis
 
-![Revenue Movement](dashboards/Revenue_Movement.png)
+![Revenue Movement](Dashboard/Revenue_Movement_Dashboard.png)
 
 Highlights:
 
@@ -251,7 +248,7 @@ Highlights:
 
 ## Plan Performance Analysis
 
-![Plan Performance](dashboards/Plan_Performance.png)
+![Plan Performance](Dashboard/Plan_Performance_Dashboard.png)
 
 Highlights:
 
@@ -295,37 +292,17 @@ Highlights:
 
 ---
 
-# ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/SaaS-Revenue-Analytics.git
-```
-
-Move into the project folder
-
-```bash
-cd SaaS-Revenue-Analytics
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebooks in Jupyter Notebook or VS Code.
-
----
-
 # 📷 Dashboard Preview
 
-Replace these images with your dashboard screenshots.
-
 - Executive Overview
+  <img width="532" height="657" alt="Screenshot 2026-07-06 225212" src="https://github.com/user-attachments/assets/04e3bcb1-f32b-402a-a907-0c9ba2e4ffa3" />
+
 - Revenue Movement
+  <img width="321" height="498" alt="Screenshot 2026-07-06 225620" src="https://github.com/user-attachments/assets/c7b474a9-74f2-4bda-99e7-453a02558a48" />
+
 - Plan Performance
+  <img width="487" height="577" alt="Screenshot 2026-07-06 230528" src="https://github.com/user-attachments/assets/c19978e9-3527-4497-b89c-02b33f66587c" />
+
 
 ---
 
@@ -333,20 +310,11 @@ Replace these images with your dashboard screenshots.
 
 **Aditya Mishra**
 
-Aspiring Data Analyst
+📧 Email: adityamishra1872@gmail.com
 
-📧 Email: your-email@example.com
+🔗 LinkedIn: https://www.linkedin.com/in/adityakmishra01
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+💻 GitHub: https://github.com/adityakmishra01
 
-💻 GitHub: https://github.com/yourusername
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ⭐ If you found this project helpful, consider giving it a star.
