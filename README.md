@@ -219,7 +219,7 @@ SQL queries were written to answer business questions such as:
 
 ## Executive Overview
 
-![Executive Dashboard](Dashboard/Executive Overview Dashboard.png)
+![Executive Dashboard](Dashboard/Executive%20Overview%20Dashboard.png)
 
 Highlights:
 
@@ -234,7 +234,7 @@ Highlights:
 
 ## Revenue Movement Analysis
 
-![Revenue Movement](Dashboard/Revenue Movement Dashboard.png)
+![Revenue Movement](Dashboard/Revenue%20Movement%20Dashboard.png)
 
 Highlights:
 
@@ -248,7 +248,7 @@ Highlights:
 
 ## Plan Performance Analysis
 
-![Plan Performance](Dashboard/Plan Performance Dashboard.png)
+![Plan Performance](Dashboard/Plan%20Performance%20Dashboard.png)
 
 Highlights:
 
