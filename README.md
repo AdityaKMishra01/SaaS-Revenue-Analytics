@@ -219,7 +219,7 @@ SQL queries were written to answer business questions such as:
 
 ## Executive Overview
 
-![Executive Dashboard](Dashboard/Executive_Overview_Dashboard.png)
+![Executive Dashboard](Dashboard/Executive Overview Dashboard.png)
 
 Highlights:
 
@@ -234,7 +234,7 @@ Highlights:
 
 ## Revenue Movement Analysis
 
-![Revenue Movement](Dashboard/Revenue_Movement_Dashboard.png)
+![Revenue Movement](Dashboard/Revenue Movement Dashboard.png)
 
 Highlights:
 
@@ -248,7 +248,7 @@ Highlights:
 
 ## Plan Performance Analysis
 
-![Plan Performance](Dashboard/Plan_Performance_Dashboard.png)
+![Plan Performance](Dashboard/Plan Performance Dashboard.png)
 
 Highlights:
 
@@ -295,13 +295,13 @@ Highlights:
 # 📷 Dashboard Preview
 
 - Executive Overview
-  <img width="532" height="657" alt="Screenshot 2026-07-06 225212" src="https://github.com/user-attachments/assets/04e3bcb1-f32b-402a-a907-0c9ba2e4ffa3" />
+- <img width="532" height="657" alt="Screenshot 2026-07-06 225212" src="https://github.com/user-attachments/assets/04e3bcb1-f32b-402a-a907-0c9ba2e4ffa3" />
 
 - Revenue Movement
-  <img width="321" height="498" alt="Screenshot 2026-07-06 225620" src="https://github.com/user-attachments/assets/c7b474a9-74f2-4bda-99e7-453a02558a48" />
+- <img width="321" height="498" alt="Screenshot 2026-07-06 225620" src="https://github.com/user-attachments/assets/c7b474a9-74f2-4bda-99e7-453a02558a48" />
 
 - Plan Performance
-  <img width="487" height="577" alt="Screenshot 2026-07-06 230528" src="https://github.com/user-attachments/assets/c19978e9-3527-4497-b89c-02b33f66587c" />
+- <img width="487" height="577" alt="Screenshot 2026-07-06 230528" src="https://github.com/user-attachments/assets/c19978e9-3527-4497-b89c-02b33f66587c" />
 
 
 ---
