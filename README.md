@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 
@@ -52,7 +51,6 @@ This project answers these questions through data analysis and visualization.
 | Python | Data Cleaning & Analysis |
 | Pandas | Data Manipulation |
 | NumPy | Numerical Computation |
-| SQL | Business Analysis |
 | Power BI | Dashboard Development |
 | DAX | KPI Measures |
 | Jupyter Notebook | Analysis |
@@ -77,8 +75,6 @@ SaaS-Revenue-Analytics
 │   ├── 03_NRR_Analysis.ipynb
 │   └── 04_Revenue_Analytics.ipynb
 │
-├── sql
-│   └── saas_analysis.sql
 │
 ├── dashboards
     ├── SaaS_Revenue_Analytics.pbix
@@ -110,9 +106,6 @@ NRR Analysis
       │
       ▼
 Revenue Analytics
-      │
-      ▼
-SQL Business Analysis
       │
       ▼
 Power BI Dashboard
@@ -199,19 +192,6 @@ Outputs:
 - monthly_mrr.csv
 - monthly_mrr_byPlan.csv
 - total_active_cust.csv
-
----
-
-# 🗄 SQL Analysis
-
-SQL queries were written to answer business questions such as:
-
-- Monthly Revenue Trend
-- Revenue by Subscription Plan
-- Active Customers
-- Top Revenue Customers
-- Monthly Customer Growth
-- Revenue Distribution
 
 ---
 
